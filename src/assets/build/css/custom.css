@@ -1942,7 +1942,7 @@ table.jambo_table tbody tr.selected td {
 
 table.dataTable th.focus,
 table.dataTable td.focus {
-  outline: 2px solid #1ABB9C !important;
+  outline: 2px solid #1ABB9C;
   outline-offset: -1px; }
 
 table.display {

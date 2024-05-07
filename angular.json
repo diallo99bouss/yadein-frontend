@@ -25,7 +25,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/vendors/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/vendors/font-awesome/css/font-awesome.min.css",
+              "src/assets/vendors/nprogress/nprogress.css",
+              "src/assets/vendors/animate.css/animate.min.css"
             ],
             "scripts": [],
             "server": "src/main.server.ts",
